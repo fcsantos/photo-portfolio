@@ -1,6 +1,6 @@
 # Photo Portfolio
 
-> A simple project to teach my students in a course on Udemy.
+> um Teste com git.
 
 Big Picture by HTML5 UP
 
